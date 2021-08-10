@@ -1,0 +1,3 @@
+struct class {
+    var prop
+}
